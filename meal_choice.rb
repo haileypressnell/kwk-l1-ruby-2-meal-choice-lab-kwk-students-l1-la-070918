@@ -8,7 +8,7 @@ def lunch(food = "grilled cheese")
 end
 lunch("cobb salad")
 
-def dinner(food = "salmon")
+def dinner(food = "Salmon")
   puts "Night is the best time for #{food}"
 end
 dinner("pizza")
